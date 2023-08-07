@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Infra-pHAT-rescue)(type Legacy)(uri ${KIPRJMOD}/Infra-pHAT-rescue.lib)(options "")(descr ""))
+  (lib (name mylibrary)(type Legacy)(uri ${KIPRJMOD}/mylibrary.lib)(options "")(descr ""))
+)
