@@ -3,7 +3,7 @@
 # Temporary files
 *.000
 *.bak
-*-backups/
+co2-uhat-backups/*.zip
 *.bck
 *.kicad_pcb-bak
 *~
